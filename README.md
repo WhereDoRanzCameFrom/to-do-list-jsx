@@ -1,2 +1,2 @@
 # to-do-list-jsx
-Proyek To-Do List interaktif menggunakan JavaScript
+Ini adalah project kuliahTo-Do List interaktif menggunakan JavaScript
